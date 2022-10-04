@@ -1,0 +1,248 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Bobaljik:2012}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee7b98ddafc11e0722b7abb60f94422c}{%
+           family={Bobaljik},
+           familyi={B\bibinitperiod},
+           given={Jonathan\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{ee7b98ddafc11e0722b7abb60f94422c}
+      \strng{fullhash}{ee7b98ddafc11e0722b7abb60f94422c}
+      \strng{bibnamehash}{ee7b98ddafc11e0722b7abb60f94422c}
+      \strng{authorbibnamehash}{ee7b98ddafc11e0722b7abb60f94422c}
+      \strng{authornamehash}{ee7b98ddafc11e0722b7abb60f94422c}
+      \strng{authorfullhash}{ee7b98ddafc11e0722b7abb60f94422c}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Universals in comparative morphology: Suppletion, superlatives, and the structure of words}
+      \field{year}{2012}
+    \endentry
+    \entry{Caha:2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=07b20785c6170659e1451b481dcde8a0}{%
+           family={Caha},
+           familyi={C\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e84df45757b6623aee3fdcd37de5a05}{%
+           family={De\bibnamedelima Clercq},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78a3197f6d547e10300837c39a2b042d}{%
+           family={Vanden\bibnamedelima Wyngaerd},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{3667fd6cd46d8a230ba099fa53776004}
+      \strng{fullhash}{3667fd6cd46d8a230ba099fa53776004}
+      \strng{bibnamehash}{3667fd6cd46d8a230ba099fa53776004}
+      \strng{authorbibnamehash}{3667fd6cd46d8a230ba099fa53776004}
+      \strng{authornamehash}{3667fd6cd46d8a230ba099fa53776004}
+      \strng{authorfullhash}{3667fd6cd46d8a230ba099fa53776004}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Studia {L}inguistica}
+      \field{number}{3}
+      \field{title}{The fine structure of the comparative}
+      \field{volume}{73}
+      \field{year}{2019}
+      \field{pages}{470\bibrangedash 521}
+      \range{pages}{52}
+    \endentry
+    \entry{Caha:2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3e84df45757b6623aee3fdcd37de5a05}{%
+           family={De\bibnamedelima Clercq},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07b20785c6170659e1451b481dcde8a0}{%
+           family={Caha},
+           familyi={C\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ff3f64f1098768eb0f08aa1865b3cc4}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=78a3197f6d547e10300837c39a2b042d}{%
+           family={Vanden\bibnamedelima Wyngaerd},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56cab25f55942914b28596a36abbb31b}
+      \strng{fullhash}{87313e9d28023f505e6666609673dc2c}
+      \strng{bibnamehash}{56cab25f55942914b28596a36abbb31b}
+      \strng{authorbibnamehash}{56cab25f55942914b28596a36abbb31b}
+      \strng{authornamehash}{56cab25f55942914b28596a36abbb31b}
+      \strng{authorfullhash}{87313e9d28023f505e6666609673dc2c}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{ms.}
+      \field{title}{Degree morphology}
+      \field{year}{2022}
+    \endentry
+    \entry{Starke:2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ff3f64f1098768eb0f08aa1865b3cc4}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{fullhash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{bibnamehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{authorbibnamehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{authornamehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{authorfullhash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nordlyd}
+      \field{number}{1}
+      \field{title}{Nanosyntax: {A} short primer to a new approach to language}
+      \field{volume}{36}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{Starke:2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ff3f64f1098768eb0f08aa1865b3cc4}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press Oxford}%
+      }
+      \strng{namehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{fullhash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{bibnamehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{authorbibnamehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{authornamehash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \strng{authorfullhash}{6ff3f64f1098768eb0f08aa1865b3cc4}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Exploring nanosyntax}
+      \field{title}{Complex left branches, spellout, and prefixes}
+      \field{year}{2018}
+      \field{pages}{239\bibrangedash 249}
+      \range{pages}{11}
+    \endentry
+    \entry{Caha:2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=78a3197f6d547e10300837c39a2b042d}{%
+           family={Vanden\bibnamedelima Wyngaerd},
+           familyi={V\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Guido},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ff3f64f1098768eb0f08aa1865b3cc4}{%
+           family={Starke},
+           familyi={S\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e84df45757b6623aee3fdcd37de5a05}{%
+           family={De\bibnamedelima Clercq},
+           familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07b20785c6170659e1451b481dcde8a0}{%
+           family={Caha},
+           familyi={C\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Open Library of Humanities}%
+      }
+      \strng{namehash}{91a51ccc15d7c07a4ae846cbe1a9897e}
+      \strng{fullhash}{8b4c76dd7451ea7dcc9dc2ec721b31c6}
+      \strng{bibnamehash}{91a51ccc15d7c07a4ae846cbe1a9897e}
+      \strng{authorbibnamehash}{91a51ccc15d7c07a4ae846cbe1a9897e}
+      \strng{authornamehash}{91a51ccc15d7c07a4ae846cbe1a9897e}
+      \strng{authorfullhash}{8b4c76dd7451ea7dcc9dc2ec721b31c6}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Glossa: a journal of general linguistics}
+      \field{number}{1}
+      \field{title}{How to be positive}
+      \field{volume}{5}
+      \field{year}{2020}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
